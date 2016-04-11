@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shop>
+    <items>
+        <item>
+            <title>It's Snowing!</title>
+            <filename>s0001.jpg</filename>
+            <price>14.95</price>
+            <tags>new</tags>
+        </item>
+        <item>
+            <title>Happy Weekend</title>
+            <filename>s0002.jpg</filename>
+            <price>9.95</price>
+            <tags>hot</tags>
+        </item>
+        <item>
+            <title>Merry Christmas</title>
+            <filename>s0003.jpg</filename>
+            <price>30</price>
+            <tags></tags>
+        </item>
+    </items>
+</shop>

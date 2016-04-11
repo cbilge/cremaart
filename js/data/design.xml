@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<design>
+    <photos>
+        <photo>
+            <title>Breathe</title>
+            <filename>d0001.jpg</filename>
+            <tags>new</tags>
+        </photo>
+        <photo>
+            <title>Roses</title>
+            <filename>d0002.jpg</filename>
+            <tags>hot</tags>
+        </photo>
+        <photo>
+            <title>Meditation</title>
+            <filename>d0003.jpg</filename>
+            <tags></tags>
+        </photo>
+    </photos>
+</design>

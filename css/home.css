@@ -1,0 +1,32 @@
+.description {
+    padding: 6px;
+}
+
+.designTitle, .shopTitle {
+    display: inline;
+}
+
+.photoTag {
+    float: right;
+    display: inline;
+}
+
+.label-new {
+    background-color: #fd00f2;
+}
+
+.hotglyph {
+    font-size: 16px;
+    color: #ff6a00;
+}
+
+.shopPrice {
+    background-color: #00a615;
+    border-radius: 3px;
+    color: #fff;
+    display: inline;
+    width: 35px;
+    float: right;
+    text-align: center;
+    vertical-align: middle;
+}
