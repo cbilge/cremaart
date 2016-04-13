@@ -27,5 +27,9 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
        $shopurl = 'shop.xml';
        echo Parse($shopurl);
     }
+    elseif ($src == "blog") {
+       $blogurl = 'blog.xml';
+       echo Parse($blogurl);
+    }
 }
 ?>

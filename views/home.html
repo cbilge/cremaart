@@ -24,8 +24,12 @@
             </div>
         </div>
         <div class="col-md-3"> <!--blog-->
-            <div class="thumbnail">
-                <p>asd</p>
+            <div class="thumbnail" ng-repeat="post in blog.posts.post | orderBy: 'pubDate'">
+                <div class="description">
+                    <h3 class="blogTitle">{{post.title}}</h3>
+                    <p class="blogText">{{post.text | cutText : 140}}</p>
+                </div>
+                <img ng-src="{{getBlogImg(post.main_img)}}">
             </div>
         </div>
     </div>
